@@ -1,0 +1,12 @@
+.box	{width:390px;height:230px;border:8px solid #FA6346;border-radius:10px;padding:10px 10px 10px 10px;font-size:22px;font-style:calibri;color:#d42027;margin:50px 50px 50px 50px;}
+
+.red{color:red;font-style:calibri;text-decoration:none;padding:25px 10px 10px 10px;text-align:center;}
+.rl{color:#EC360F;font-style:calibri;text-align:center;text-decoration:none;padding:50px 10px 10px 100px;}	
+.blue{color:blue;font-style:calibri;text-decoration:none;padding:5px 10px 10px 10px;text-align:center;}
+.bl{color:blue;text-decoration:none;}
+.h{width:390px;height:230px;border:8px solid red;border-radius:10px; 
+          padding:10px 10px 10px 10px;font-size:22px;font-style:calibri;margin:30px 30px 30px 30px;}
+.regform h2{color:#d4d2027}
+.regform label,.regform input,.regform select{padding:10px;}
+.regform.row{margin:20px 0px;}
+.regform button{padding:10px 40px;background-color:#d42027;color:white;font-size:15px;border:none;}

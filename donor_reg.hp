@@ -1,0 +1,19 @@
+<div class=row >
+
+<form>
+<div class=" size1" style="padding:30px 2opx;">
+<form action="" method="post" class="logine">
+<h2 class="ch"> Donor REGISTRATON</h2>
+<div class="row" style="padding:20px 20px;"><label class="size2 ch">name</label><input type="text" name="user" class="c"required ></div>
+<div class="row" style="padding:20px 20px;"><label class="size2 ch">Gender</label><input type="text" name="user" class="c"required></div>
+<div class="row" style="padding:20px 20px;"><label class="size2 ch">Mob</label><input type="text" name="pass" class="d" required></div>
+<div class="row" style="padding:20px 20px;"><label class="size2 ch">email</label><input type="text" name="pass" class="d" required></div>
+<div class="row" style="padding:20px 20px;"><label class="size2 ch">Pass</label><input type="password" name="pass" class="d" required></div>
+<div class="row" style="padding:20px 20px;"><label class="size2 ch">city</label><input type="text" name="pass" class="d" required></div>
+<div class="row" style="padding:20px 20px;"><label class="size2 ch">District</label><input type="text" name="pass" class="d" required></div>
+<div class="row" style="padding:20px 20px;"><label class="size2 ch">Mob</label><input type="password" name="pass" class="d" required></div>
+<div class="row" style="padding:20px 20px;"><button class="but" type="submit">Login</button>
+
+</form>
+  
+</div>

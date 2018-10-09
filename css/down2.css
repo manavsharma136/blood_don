@@ -1,0 +1,5 @@
+.fo{position:fixed;top:850px;left:20px;border:2px solid green;}
+
+.box{width:390px;height:130px;border:8px solid red;border-radius:10px;
+          padding:10px 50px 80px 50px;font-size:30px;font-style:calibri;color:#d42027;}
+		  .dow:hover{box-shadow:3px 3px 5px blue;}
