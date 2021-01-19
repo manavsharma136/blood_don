@@ -1,5 +1,5 @@
 <div class="row">
-<img s class="size3" src="images/o.jpg">
+<img df class="size3" src="images/o.jpg">
 
 <div class=" size1" style="padding:30px 2opx;">
 <form action="user/chkadmin.php" method="post" class="logine">
