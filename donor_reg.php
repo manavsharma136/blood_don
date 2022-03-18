@@ -1,5 +1,5 @@
 <div class="row" >
-
+<h1>Manav</h1>
 <div class=" size1" style="padding:30px 20px;">
 <form action="reg2.php" method="post" class="logine">
 <h2 class="ch"> Donor REGISTRATON</h2>
